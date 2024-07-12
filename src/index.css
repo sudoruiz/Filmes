@@ -1,0 +1,20 @@
+* {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1c1c1c;
+    color: #FFF;
+}
+
+a {
+    text-decoration: none;
+    color: #e50914;
+}
+
+a:hover {
+    color: #f40612;
+}
